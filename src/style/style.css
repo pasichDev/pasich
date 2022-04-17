@@ -3,6 +3,11 @@
     src: url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap);
 }
 
+@font-face {
+    font-family: Grape;
+    src: url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&family=Saira+Condensed:wght@100&display=swap);
+}
+
 .body {
     background: #EBEBEB;
 }
@@ -11,8 +16,15 @@
     padding: 10px;
 }
 
-.body_container {
+.grape {
+    font-family: Grape;
+}
+
+.squarePeg {
     font-family: SquarePeg;
+}
+
+.body_container {
     padding: 20px;
 }
 
