@@ -1,3 +1,8 @@
+@font-face {
+    font-family: SquarePeg;
+    src: url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap);
+}
+
 .body {
     background: #EBEBEB;
 }
@@ -7,6 +12,7 @@
 }
 
 .body_container {
+    font-family: SquarePeg;
     padding: 20px;
 }
 
